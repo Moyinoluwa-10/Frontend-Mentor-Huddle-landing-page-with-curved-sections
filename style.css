@@ -630,6 +630,7 @@ header button {
 
 footer {
     padding: 150px 50px 70px 50px;
+    margin-top: -10px;
 }
 
 #footer-logo {
